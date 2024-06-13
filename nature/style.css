@@ -1,0 +1,46 @@
+*
+{
+    margin: 0PX;
+    padding: 0PX;
+    box-sizing: border-box;
+}
+body
+{
+  height: 500px;
+  width: 100%;
+  background-image:url('IMAGE.CSS.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+.two
+{
+  height: 300px;
+  width: 50%;
+  margin-top: 2%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  left: 50%;
+  top: 50%;
+  color: rgb(43, 217, 226);
+  
+}
+h1 
+{
+  color: blueviolet;
+  text-align: center;
+  
+}
+p
+{
+  margin: 5%;
+  text-align: justify;
+}
+button
+{
+  margin-left: 45%;
+  box-sizing: border-box;
+  background-color: greenyellow;
+  color: blue;
+  
+}
